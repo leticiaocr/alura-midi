@@ -1,6 +1,6 @@
 # ALURA MIDI
 
-O Alura Midi é um instrumento musical de interface digital desenvolvido durante o curso de JavaScript para web da Alura, onde a cada botão vamos reproduzir o som de um instrumento. Esse projeto foi desenvolvido com o objetivo de trabalhar habilidades com o DOM. 
+O Alura Midi é um instrumento musical de interface digital desenvolvido durante o curso de JavaScript para web da formação JavaScript Alura, onde a cada botão vamos reproduzir o som de um instrumento. Esse projeto foi desenvolvido com o objetivo de trabalhar habilidades com o DOM. 
 
 ## Tecnologias
 
@@ -33,8 +33,4 @@ Aqui estão as tecnologias utilizadas neste projeto.
   - Link para acesso: https://leticiaocr.github.io/alura-midi/
   
   - Repositório: https://github.com/leticiaocr/alura-midi.git
-
-  ## Autores
-
-  * **Letícia Oliveira** 
 
